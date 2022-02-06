@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/iserioton/iserioton.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iserioton/iserioton.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div>
+    <div align=center>
+        <img src="./coffe.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/keval-rakholiya/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://stackoverflow.com/users/18131806/keval-rakholiya"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+    </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Computer Scientist, Back-End Engineer, Problem Solver, and Open-Source Enthusiast.<br><br>
+                I specialize in Nodejs and Mysql and I am passionate about web technologies. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                I am passionate about learning Javascript, all Back-End Technologies, Web 3, Database, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+            </strong>
+        </p>
+        <ul>
+            <li>🔭 <b>I’m currently working</b>: Web apps.</li>
+            <li>🌱 <b>I’m currently learning</b>: ReactJs</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/iserioton/iserioton/issues">Here</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻). To develope new things in programming.</li>
+        </ul>
+    </div>
+    <div align=center>
+        <img src="./GitHubLoader.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading...</p>
+    </div>
+</div>
